@@ -161,5 +161,5 @@ minty pin 1
 > Pinning metadata (ipfs://bafybeic3ui4dj5dzsvqeiqbxjgg3fjmfmiinb3iyd2trixj2voe4jtefgq/metadata.json) for token id 1...
 > 🌿 Pinned all data for token id 1
 ```
-
+TK4szbt2SxwYk5PfThYtQXBKLX2yABesAK
 The `pin` command looks for some configuration info to connect to the remote pinning service. See the [Configuration section](#configuration) above for details.
